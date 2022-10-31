@@ -1,0 +1,242 @@
+/* Navigation Bar Section */
+*
+{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+#brand
+{
+  color: #fff;
+  font-size: 3rem;
+  padding-left: 2%;
+  text-shadow: 5px 5px 5px red;
+  
+}
+#manu
+{
+  font-size: 1.5rem;
+  padding: 1% 3%;
+}
+#nav
+{
+  color: #fff;
+  border: 1px solid beige;
+  border-radius: 20%;
+  margin:5px ;
+ width: 140px;
+ text-align: center;
+
+    
+}
+#navigationbar
+{
+  background-color:#107786;
+}
+
+.nav-item:hover
+{
+  background-color:gray;
+  color:black;
+  border: 2px solid white;
+  border-radius: 30%;
+}
+
+#btnform
+{
+  border: 2px solid white;
+  border-radius: 15%;
+}
+/* Main Content Section  */
+
+#signup
+{
+  margin-bottom: 17%;
+  margin-left: 95%;
+  height: 1%;
+  
+  border: 1px solid blue;
+  border-radius: 10%;
+  color:#fff;
+}
+#bgimg
+{
+  height:900px;
+  width: 100%;
+
+}
+#h1main
+{
+  font-size: 7rem;
+  padding-bottom: 2%;
+  text-shadow: 5px 5px 5px red;
+}
+#p1main
+{
+  font-size: 4rem;
+  padding-bottom: 4%;
+  text-shadow: 5px 5px 5px palevioletred;
+}
+#btnmain
+{
+  margin-bottom: 23%;
+  color:;
+  border: 2px solid white;
+  /* background-color: rgb(223, 215, 215); */
+  /* color: rgb(250, 248, 248); */
+}
+/* 2ed Container */
+
+#Where
+{
+  background-color: #6B3670;
+}
+#search
+{
+padding-top: 5%;
+padding-bottom: 1%;
+text-align: center;
+color: #fff;
+}
+#searchbtn
+{
+  padding: 1% 15%;
+  
+  margin-left: 33%;
+  border-radius: 15px;
+  
+}
+#mapbtn
+{
+  margin-left: 48%;
+  margin-bottom: 5%;
+  margin-top:2%;
+ 
+}
+#Place
+{
+  text-align: center;
+  color:#fff;
+  border-top: 2px solid black;
+  border-left: 2px solid black ;
+  border-right: 2px solid black ;
+  padding: 25px;
+}
+#row1
+{
+  text-align: center;
+}
+
+
+/* <!-- Place recommednd for yoiu card --> */
+#visit
+{
+  margin: 3% 8%;
+  background-color: #6B3670;
+  color: #fff;
+  padding: 3%;
+}
+
+#taxt1
+{
+  border: 2px solid ;
+  text-align: center;
+  
+  background-color: beige;
+ 
+}
+.cardbtn
+{
+  padding: 2% 0%;
+}
+#cardhead
+{
+  padding: 2% 2%;
+}
+#cardimg
+{
+  border: 2px white;
+  border-radius: 10%;
+}
+/* donjation */
+
+#don
+{
+  text-decoration: underline;
+  text-align: center;
+  padding: 3%;
+}
+#don1
+{
+  text-align: center;
+  padding: 3%;
+}
+#donbody1
+{
+  background-color: #107786;
+  color: #fff;
+}
+#donbody
+{
+  background-color: #0F0032;
+  color: #fff;
+}
+/* footer section */
+#sechead
+{
+  text-align: center;
+  padding: 3%;
+}
+#footer
+{
+  background-color: #22404C;
+  color: #fff;
+}
+#footerhead
+{
+  text-align: center;
+  margin-top: 1%;
+  padding: 1%;
+  text-shadow:3px 2px 3px red;
+  
+}
+#footerlist
+{
+ margin-left: 15%;
+ list-style-type:none
+}
+#item
+{
+  padding: 1%;
+  margin-left: 20%;
+  text-decoration: none;
+  color: #fff;
+}
+#item:hover
+{
+  border: 1px solid white;
+  background-color:azure;
+  color:black;
+  border-radius: 5%;
+}
+#footerbtn
+{
+  padding:3% 5%;
+  margin-top: 5%;
+  margin-left: 15%;
+}
+#social
+{
+ margin:1%  40%;
+ padding-top: 5%;
+
+}
+#socialitem
+{
+  padding: 1%;
+ 
+}
+#copy
+{
+  text-align: center;
+}

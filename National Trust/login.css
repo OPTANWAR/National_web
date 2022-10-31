@@ -1,0 +1,43 @@
+#login
+{
+    
+    background-color:#33485F;   
+    border: px solid #fff; 
+    margin: 0px 7%;
+    color: #fff;
+    
+}
+#head
+{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 5%;
+
+}
+#head1
+{
+    
+ margin-left: 26%;
+ font-size: 1rem;
+}
+#em
+{
+    margin-left: 25%;
+    padding:1%;
+    font-size: 2rem;
+}
+#em1
+{
+    padding-bottom:5%;
+   
+}
+#em2
+{
+    width:300px;
+}
+#gio
+{
+   margin-top: 3%;
+   margin-left: 42%;
+   margin-bottom: 29%;
+}
